@@ -3,3 +3,4 @@ const name = require(`./module1.js`)
 
 sayHi(name.peter)
 console.log(name)
+require(`./mind-grenade`)
